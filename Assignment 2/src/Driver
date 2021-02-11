@@ -1,0 +1,15 @@
+
+public class Driver
+{   public static void main(String[] args)
+	{ 
+		Implementation implement = new Implementation();
+		Integer[] listOfNumbers = {1,2,3,3,4,9,8,8,4,5,7,10,10};
+		int targetSum = 6;
+	
+	}
+}
+
+	public class Implementation
+	{
+	
+	}
